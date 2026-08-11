@@ -13,4 +13,6 @@ Education
 ======
 -MSc. in Electrical and Computer Engineering (2014), Addis Ababa University
   Thesis: [Reliable Data Transmission and Energy Efficient Sleep Scheduling for Multi-source Multi-sink Wireless Senor Networks]
+
+  
 -BSc. in Electrical Engineering (2010), Arba Minch University
