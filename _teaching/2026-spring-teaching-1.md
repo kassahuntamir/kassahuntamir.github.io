@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Adama Science and Technology University, Computer Science and Engineering"
-date: 2014-01-01
+date: 2026-02-01
 location: "Adama, Ethiopia"
 ---
 
