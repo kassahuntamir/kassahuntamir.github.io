@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include toc %}
 
 ## I LOVE BOOKS
 
