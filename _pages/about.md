@@ -11,8 +11,8 @@ Welcome, I am a researcher, and someone who really loves books. In crafting and 
 
 Education
 ======
-- *MSc. in Electrical Engineering (Computer Engineering)* (2014), Addis Ababa University
-  Thesis: [Reliable Data Transmission and Energy Efficient Sleep Scheduling for Multi-source Multi-sink Wireless Senor Networks]
+- *MSc. in Electrical Engineering (Computer Engineering)* (2014), Addis Ababa University.
+    Thesis: [Reliable Data Transmission and Energy Efficient Sleep Scheduling for Multi-source Multi-sink Wireless Senor Networks]()
 
   
 - *BSc. in Electrical Engineering* (2010), Arba Minch University
