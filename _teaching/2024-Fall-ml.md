@@ -2,7 +2,7 @@
 title: "ECEg5407 - Introduction to Machine Learning Fall 2024"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-Fall-teaching-2
+permalink: /teaching/2024-Fall-ml
 venue: "Addis Ababa Science and Technology University, Department of Electrical and Computer Engineering"
 date: 2025-09-15
 location: "Addis Ababa, Ethiopia"
