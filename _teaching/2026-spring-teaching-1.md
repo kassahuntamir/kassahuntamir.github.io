@@ -10,11 +10,11 @@ location: "Adama, Ethiopia"
 
 Covers foundational computer vision concepts and essential linear algebra operations for visual data. Hands-on lab modules focus on digital image processing, including spatial/frequency domain filtering, image enhancement, and edge/feature detection using OpenCV and MATLAB. Concludes with practical applications in object classification, detection, and recognition using modern Deep Convolutional Neural Network (CNN) architectures demonstrated through class labs and a capstone project.
 
-Heading 1
+<!--Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+======-->
