@@ -2,7 +2,7 @@
 title: "CSEg5311 - Introduction to Computer vision Spring 2019,'20, '26, 'Fall '22,'23"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-spring-teaching-1
+permalink: /teaching/2026-vision
 venue: "Adama Science and Technology University, Computer Science and Engineering"
 date: 2026-02-01
 location: "Adama, Ethiopia"
