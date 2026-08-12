@@ -8,7 +8,7 @@ date: 2026-02-01
 location: "Adama, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Covers foundational computer vision concepts and essential linear algebra operations for visual data. Hands-on lab modules focus on digital image processing, including spatial/frequency domain filtering, image enhancement, and edge/feature detection using OpenCV and MATLAB. Concludes with practical applications in object classification, detection, and recognition using modern Deep Convolutional Neural Network (CNN) architectures demonstrated through class labs and a capstone project.
 
 Heading 1
 ======
