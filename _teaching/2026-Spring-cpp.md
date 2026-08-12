@@ -2,7 +2,7 @@
 title: "CSEg1104 Fundamentals of Programming (using C++) Spring 2026"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2026-cpp
+permalink: /teaching/2026-Spring-cpp
 venue: "Adama Science and Technology University, Computer Science and Engineering"
 date: 2026-02-01
 location: "Adama, Ethiopia"
