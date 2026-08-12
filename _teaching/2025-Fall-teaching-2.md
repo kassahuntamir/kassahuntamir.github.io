@@ -10,11 +10,13 @@ location: "Addis Ababa, Ethiopia"
 
 Introduces real-time embedded system fundamentals, focusing on the internal hardware architecture of the PIC18 microcontroller family. Hands-on modules cover firmware development in Embedded C using MPLAB X IDE and the XC8 compiler, paired with circuit simulation in Proteus. Advanced topics include Real-Time Operating Systems (RTOS), low-power optimization strategies, and IoT integration..
 
-<!--Heading 1
+<!--
+Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======-->
+======
+-->
