@@ -8,7 +8,7 @@ date: 2025-09-15
 location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Provides a comprehensive introduction to machine learning principles and techniques. Covers core supervised learning models—including k-nearest neighbors, linear models, Naive Bayes, decision trees, support vector machines (SVM), and neural networks—alongside unsupervised methods such as data preprocessing, feature scaling, dimensionality reduction, and clustering. Concludes with model evaluation strategies and an applied capstone project, with all algorithms reinforced through hands-on lab sessions using Kaggle datasets and the PyTorch framework.
 
 <!--
 Heading 1
