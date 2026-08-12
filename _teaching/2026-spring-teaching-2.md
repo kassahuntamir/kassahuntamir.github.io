@@ -8,7 +8,7 @@ date: 2026-02-01
 location: "Adama, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduces structured programming fundamentals and problem-solving using C++ to build software solutions for technical and scientific applications. Covers the complete development lifecycle—from algorithm design and problem analysis through coding, testing, and debugging. Core topics include procedural logic, control structures, modular function design, memory management via arrays and pointers, file stream I/O, user-defined structures, and an entry to object-oriented concepts.
 
 Heading 1
 ======
