@@ -21,7 +21,8 @@
     height: 100vh;
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: $masthead-height;
+    padding-top: calc(#{$masthead-height} - 25px) !important;
+    padding-bottom: 80px !important;
   }
 
   @include breakpoint($large) {
@@ -144,9 +145,10 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  margin-top: -10px !important;
   // set width only, for non-square avatars
   // height: 36px;
-
+ 
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -183,8 +185,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 2px;
   }
 }
 .sidebar .author__name {
@@ -203,8 +205,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 }
 
@@ -212,8 +214,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 2px;
+    margin-bottom: 10px;
   }
 }
 
@@ -306,17 +308,27 @@
   li {
     white-space: normal;
     word-break: break-word;
+    margin-bottom: 2px !important;
   }
 
   a {
-    display: flex;
-    margin-bottom: 5px;
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 8px;
+    margin-bottom: 3px;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+
+    i, svg, .fa, .fas, .far, .ai {
+      flex-shrink: 0 !important;
+      width: 16px !important;
+      text-align: center;
+      margin-top: 3px;
+    }
 
     &:hover {
       text-decoration: underline;
