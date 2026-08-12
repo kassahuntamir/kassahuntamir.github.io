@@ -2,7 +2,7 @@
 title: "CSEg1101 - Introduction to Computing (using Python) Fall 2023,'25"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-python
+permalink: /teaching/2025-Fall-python
 venue: "Adama Science and Technology University, Department of Computer Science and Engineering"
 date: 2025-09-15
 location: "Adama, Ethiopia"
