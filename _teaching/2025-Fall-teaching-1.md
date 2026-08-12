@@ -8,7 +8,7 @@ date: 2025-09-15
 location: "Adama, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduces computational thinking, problem-solving, and fundamental Python programming concepts. Key topics include control structures, functions, variable scope, modules, and higher-order functions. Covers essential data structures, file I/O, string formatting, dynamic programming, and recursion (including searching and merge sort), leading into object-oriented programming (classes and objects) and graphical user interface (GUI) development.
 
 
 <!--
