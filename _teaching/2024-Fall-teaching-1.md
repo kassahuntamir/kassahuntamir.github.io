@@ -8,6 +8,8 @@ date: 2025-09-15
 location: "Addis Ababa, Ethiopia"
 ---
 
+This is a description of a teaching experience. You can use markdown like any other post.
+
 <!--
 Heading 1
 ======
