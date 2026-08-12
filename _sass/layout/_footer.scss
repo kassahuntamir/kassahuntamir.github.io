@@ -10,10 +10,10 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 3em;
+  margin-top: 0 !important;;
   width: 100%;
   clear: both;
-
+  text-align: center !important;
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
@@ -31,10 +31,11 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0 !important;;
     max-width: 100%;
-    padding: 0 1em 1em;
-
+    padding: 0.25rem 1em !important;
+    text-align: center !important;
+     
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -68,21 +69,25 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  text-align: center !important;
 }
 
 .page__footer-follow {
+  text-align: center !important;
+   
   ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
+    text-align: center !important;
   }
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px !important;;
+    padding-bottom: 2px !important;;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
     text-transform: uppercase;
   }
 
