@@ -8,7 +8,7 @@ date: 2025-09-15
 location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduces fundamental concepts in robotics and computer vision, starting with robotic hardware fundamentals, sensor integration, and machine vision systems. Covers core theoretical foundations in robot kinematics, dynamics, and control architectures. Extends into image and video processing algorithms, feature extraction, and practical computer vision applications, with all concepts reinforced through hands-on laboratory exercises and an applied capstone project.
 
 <!--
 Heading 1
