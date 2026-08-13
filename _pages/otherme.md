@@ -11,11 +11,11 @@ redirect_from:
 ## I LOVE BOOKS!
 
 As a member of a book club for more than seven years, I've had the privilege of exploring a vast collection of non-academic, multi-genre literature. Through these books, I have found mentors—such as Robert Greene and Jordan B. Peterson—who have shaped my thinking. Some of them are not even alive.
----
+
 ## I am a Toastmaster.
 
 Communication and leadership are lifelong journeys. Following the **Leadership Development** pathway in Toastmasters, I am currently completing my final project for Level 3.
----
+
 ## I am a Mentor and Trainer.
 Having completed a formal Training of Trainers (ToT) program, I enjoy helping individuals grow both personally and professionally. I weave together insights gained from public speaking in Toastmasters, wisdom from transformative authors, and practical experience from my academic career in Autonomous Robotics. 
 
