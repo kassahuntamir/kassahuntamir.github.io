@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /otherme/
 title: "The Non-academic Me"
 author_profile: true
 redirect_from: 
