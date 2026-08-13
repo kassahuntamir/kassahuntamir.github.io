@@ -17,7 +17,7 @@ As a member of a book club, I've got to read plenty of non-academic multi-genere
 Under the Leadership Development pathway, I am now working on my last project of Level 3.
 
 ## I am a Mentor and Trainer.
-I'm a trained trainer, and I also share the life experience I have got as a Toastmaster, as someone who has benefited from great writers throughout the world, and I also mentor people in my academic field (Autonomous Robotics).
+I'm a trained trainer, and I also share the life experience I have got as a Toastmaster and as someone who has benefited from extraordinary writers throughout the world. I am also mentor people in my academic field (Autonomous Robotics).
 
 What I've Trained so far:
 * Module 1 - Self-discovery
