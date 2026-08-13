@@ -19,7 +19,7 @@ Under the Leadership Development pathway, I am now working on my last project of
 ## I am a Mentor and a Trainer.
 I share the life experience I have got as a Toastmaster, as someone who has benefited from great writers throughout the world, and I also mentor people in my academic field (Autonomous Robotics).
 
-I Trained so far:
+What I've Trained so far:
 * Module 1 - Self-discovery
 * Module 2 - Building Self-image
 * Module 3 - Effective Communication
