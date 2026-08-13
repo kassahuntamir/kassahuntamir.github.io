@@ -26,9 +26,7 @@ author:
   avatar           : "Kassahun_Photo.jpg"
   name             : "Kassahun Tamir"
   pronouns         : # example: "she/her"  
-  bio              : |
-    Autonomous Robotics 
-    (Machine Learning + Computer Vision + Robotics)
+  bio              : "Autonomous Robotics<br>(Machine Learning + Computer Vision + Robotics)"
   location         : "Addis Ababa, Ethiopia"
   employer         : "Adama Science and Technology University"
   uri              : # URL
