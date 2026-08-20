@@ -37,8 +37,21 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* Custom CSS Rules */
-p {
-  text-align: justify;
-  text-justify: inter-word;
+/* --- Custom Text Justification (Selective) --- */
+
+/* Target only main page/post content sections that use .page__content */
+.page__content, .post__content {
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    /* optional: helps smooth justification rivers on narrower screens */
+    /* hyphens: auto; */
+  }
+}
+
+/* Ensure that specific archive lists (like publications/projects) are NOT justified */
+.entries-list, .archive, .list__item, .page__content li {
+  p {
+    text-align: left !important;
+  }
 }
