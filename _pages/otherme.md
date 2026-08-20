@@ -12,6 +12,8 @@ redirect_from:
 
 As a member of a book club for more than seven years, I've had the privilege of exploring a vast collection of non-academic, multi-genre literature. Through these books, I have found mentors—such as Robert Greene and Jordan B. Peterson—who have shaped my thinking. Some of them are not even alive.
 
+While reading broadens my perspective outside the lab, some non-academic books directly feed my research. Works like *The Emotion Machine* by Marvin Minsky and *The Future of the Mind* by Michio Kaku deeply inspire my academic work; understanding the underlying mechanics of human cognition continuously challenges me to think of new ways to push the current boundaries in Machine Learning and AI.
+
 ## I am a Toastmaster.
 
 Communication and leadership are lifelong journeys. Following the **Leadership Development** pathway in Toastmasters, I am currently completing my final project for Level 3.
