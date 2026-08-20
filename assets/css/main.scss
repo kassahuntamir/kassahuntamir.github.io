@@ -37,21 +37,21 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-/* --- Custom Text Justification (Selective) --- */
-
-/* Target only main page/post content sections that use .page__content */
-.page__content, .post__content {
-  p {
+/* 1. Ensure content within the main content areas is justified */
+.page__content, .post__content, .archive {
+  /* This justifications aligns both edges neatly */
+  p, li, dl {
     text-align: justify;
     text-justify: inter-word;
-    /* optional: helps smooth justification rivers on narrower screens */
+    /* Optional: helps smooth justification on narrower screens */
     /* hyphens: auto; */
   }
-}
 
-/* Ensure that specific archive lists (like publications/projects) are NOT justified */
-.entries-list, .archive, .list__item, .page__content li {
-  p {
-    text-align: left !important;
+  /* 2. Control the maximum width of the content container itself. */
+  /* This prevents the text from stretching across the entire screen. */
+  /* We target several potential content containers used by Jekyll themes. */
+  .inner, .entry-content, .page, .archive__content {
+    max-width: 1000px; /* Adjust this value (e.g., 900px, 1100px) as needed */
+    margin: 0 auto;    /* Centers the container on the screen */
   }
 }
